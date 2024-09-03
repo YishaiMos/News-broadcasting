@@ -1,4 +1,4 @@
-# 2D-ARKANOID game
+# News-broadcasting
 # Overview
 This project is a Simulation of news broadcasting developed in c++.
 
@@ -9,6 +9,8 @@ The number of products and the queue size of each producer is acording to the co
 # How to use
 1. Open the consule and type: make.
 2. Run it: ./news.out configuration.txt.
+
+  ![image](https://github.com/user-attachments/assets/4dc5cfe5-9700-4e98-9258-9fd0bff1a1fd)
 
 
 
